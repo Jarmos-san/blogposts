@@ -5,7 +5,7 @@ description:
   Poetry and virtual environment challenges. Achieve linting, testing,
   dependency caching, and CodeCov integration with minimal setup. Boost
   productivity and maintain code quality effortlessly."
-publishedDate: 2021-01-22
+publishedOn: 2021-01-22
 coverImage:
   url: https://ik.imagekit.io/jarmos/standard-cicd-pipeline-for-python-projects.png?updatedAt=1702974989270
   alt: A standard & complete CI/CD pipeline for most Python projects

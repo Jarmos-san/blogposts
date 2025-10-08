@@ -6,7 +6,7 @@ description:
   visual hierarchy for effective design. Discover the advantages of Medium over
   personal blogs in terms of accessibility, SEO, and audience reach. Understand
   the rationale behind choosing Medium and explore relevant references.
-publishedDate: 2020-05-13
+publishedOn: 2020-05-13
 coverImage:
   url: https://ik.imagekit.io/jarmos/medium-vs-static-site-generator.png?updatedAt=1702974989261
   alt: Medium vs Static Site Generators

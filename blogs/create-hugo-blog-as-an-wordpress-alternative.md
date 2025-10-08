@@ -5,7 +5,7 @@ description:
   offering ease and efficiency. Learn to set up Hugo, leverage GitHub Actions
   for automation, and utilize Forestry as a CMS. Elevate your blog with Hugo’s
   simplicity and GitHub’s power.
-publishedDate: 2021-02-21
+publishedOn: 2021-02-21
 coverImage:
   url: https://ik.imagekit.io/jarmos/create-overpowered-hugo-blog.png?updatedAt=1702974989343
   alt: Create an Overpowered Hugo blog (as an WordPress Alternative)

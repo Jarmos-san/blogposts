@@ -5,7 +5,7 @@ description:
   experience. Learn about minimalist tweaks, profile configurations, color
   schemes, and key bindings. Elevate your productivity and aesthetics on
   Windows. Dive into effortless customization now.
-publishedDate: 2020-12-31
+publishedOn: 2020-12-31
 coverImage:
   url: https://ik.imagekit.io/jarmos/customising-windows-terminal.png?updatedAt=1702974989364
   alt: Customising Windows Terminal with a Minimalist Approach

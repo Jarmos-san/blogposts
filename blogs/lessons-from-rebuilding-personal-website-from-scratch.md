@@ -5,7 +5,7 @@ description:
   website. Learn about the tools used, the drawbacks encountered with platforms
   like Medium and Pelican, and valuable lessons on choosing the right technology
   for a successful project.
-publishedDate: 2023-12-19
+publishedOn: 2023-12-19
 coverImage:
   url: https://ik.imagekit.io/jarmos/lessons-of-rebuilding-personal-website.png?updatedAt=1702974992236
   alt: Lessons learned from rebuilding my personal website

@@ -5,7 +5,7 @@ description:
   JS speed, Pelican for Python ease, and Hugo for speed and versatility. Tailor
   your choice to coding preference and needs. Read the comprehensive review for
   insights."
-publishedDate: 2021-02-04
+publishedOn: 2021-02-04
 coverImage:
   url: https://ik.imagekit.io/jarmos/review-of-static-site-generators.png?updatedAt=1702974989355
   alt: A review of the most popular Static Site Generators

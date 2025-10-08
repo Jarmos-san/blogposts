@@ -5,7 +5,7 @@ description:
   into the enhanced Lua runtime, simplifying config maintenance. Learn to use
   `vim.keymap.set()` for clean, modular configurations. Elevate your Neovim
   experience—VimScript vs. Lua! 🚀🔧📝
-publishedDate: 2021-11-10
+publishedOn: 2021-11-10
 coverImage:
   url: https://ik.imagekit.io/jarmos/creating-neovim-keymaps-using-lua.png?updatedAt=1702974989266
   alt: How to create custom keymaps in Neovim with Lua?

@@ -5,7 +5,7 @@ description:
   features, optimized React.js components, and SEO improvements. Discover
   popular use cases from eCommerce to content marketing. Follow for updates on
   cons and optimization techniques.
-publishedDate: 2022-02-12
+publishedOn: 2022-02-12
 coverImage:
   url: https://ik.imagekit.io/jarmos/should-you-use-nextjs.png?updatedAt=1702974989276
   alt: Should you use Next.js for building your projects?

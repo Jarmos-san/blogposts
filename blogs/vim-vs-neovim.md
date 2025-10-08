@@ -5,7 +5,7 @@ description:
   features like LSP and Lua scripting. Enjoy seamless transition for Vim users,
   faster performance with Lua, and user-friendly defaults. Neovim: the modern,
   minimalist text editor"
-publishedDate: 2021-07-15
+publishedOn: 2021-07-15
 coverImage:
   url: https://ik.imagekit.io/jarmos/vim-vs-neovim.png?updatedAt=1702974992298
   alt: "Vim vs Neovim: Which to Use?"

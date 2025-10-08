@@ -5,7 +5,7 @@ description:
   project structuring, and resolving the "ImportError: attempted relative import
   with no known parent package." Understand Python''s `__name__` and execute
   modules correctly. Boost your Python skills! 🚀'
-publishedDate: 2021-03-24
+publishedOn: 2021-03-24
 coverImage:
   url: https://ik.imagekit.io/jarmos/understanding-python-import-error-message.png?updatedAt=1702974989269
   alt: Understanding the "ImportError" Message in Python
