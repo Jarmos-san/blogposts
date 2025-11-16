@@ -46,7 +46,7 @@ If you check out the `mkblog` script linked above, you'll notice a few things:
    points to the Python interpreter that executes the script.
 3. Scroll to the bottom and you'll see this conditional statement:
 
-```python
+```python [mkblog]
 if __name__ == "__main__":
     main()
 ```
@@ -60,7 +60,7 @@ follow along for hands-on experience. Once you've created the `mkblog` file, add
 the shebang at the top, followed by the conditional statement shown above. Then
 define the following `main()` function right above the conditional statement:
 
-```python
+```python [mkblog]
 def main() -> None:
     '''Entrypoint of the script.'''
     print("Hello World!")
@@ -69,7 +69,7 @@ def main() -> None:
 With the contents added to the file, its contents should look similar to this
 and it'll be your Python script from now on.
 
-```python
+```python [mkblog]
 #!/usr/bin/env python3
 
 def main() -> None:
@@ -109,7 +109,7 @@ In other words, if we executed the script like this:
 You can access the arguments passed to the script and do something with them! To
 test it out, let's edit our script with the following changes:
 
-```python
+```python [mkblog]
 # ... truncated contents of the file
 
 import sys
@@ -163,7 +163,7 @@ An ideal CLI application should instead provide a helpful usage guide as an
 output. So let's implement that functionality as a baseline to check whether our
 script is in a working condition:
 
-```python
+```python [mkblog]
 #!/usr/bin/env python3
 
 from argparse import ArgumentParser, Namespace
@@ -214,7 +214,7 @@ We can add the positional arguments and optional flags using the
 to learn more). So, to implement a `title` , the optional `--draft` and
 `--output` flags, we can update our source code with these changes:
 
-```python
+```python [mkblog]
 #!/usr/bin/env python3
 
 from argparse import ArgumentParser, Namespace
@@ -332,7 +332,9 @@ properly. To do so, we'll first define two utility functions -
 
 Our `create_content()` function will be defined as such:
 
-```python
+```python [mkblog]
+# .... truncated code
+
 def create_content(title: str, draft: bool) -> str:
 		"""Parse and generate the Markdown content to write to file."""
 		status = "draft" if draft else "published"
@@ -343,6 +345,8 @@ def create_content(title: str, draft: bool) -> str:
 		status: {status}
 		---
 		"""
+
+# .... truncated code
 ```
 
 Our `create_content()` function fulfills the simple purpose of returning an
@@ -407,7 +411,7 @@ functions for logic handling.
 We'll have to make the following changes to the `main()` function of our script
 like this:
 
-```python
+```python [mkblog]
 def main() -> None:
 		"""Entrypoint of the script."""
 		args = parse_args()
@@ -426,7 +430,7 @@ for the user.
 
 Putting the entire code together, the complete script should look like this:
 
-```python
+```python [mkblog]
 #!/usr/bin/env python3
 
 from pathlib import Path
