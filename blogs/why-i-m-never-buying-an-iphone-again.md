@@ -8,7 +8,7 @@ description:
   iPhones in India, I'm choosing hardware freedom and value over a "lifestyle"
   brand. Here's why.
 publishedOn: 2025-12-20 08:34:02.542984+00:00
-status: draft
+status: published
 coverImage:
   url: https://ik.imagekit.io/jarmos/why-im-never-buying-an-iphone.png
   alt: Why I'm never buying an iPhone again.
