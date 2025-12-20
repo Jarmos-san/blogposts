@@ -3,6 +3,7 @@ name: Build Blog
 on:
   push:
     branches: [main]
+    paths: ["blogs/**/*.md"]
 
 jobs:
   build:
