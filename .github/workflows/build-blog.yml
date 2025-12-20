@@ -1,0 +1,13 @@
+name: Build Blog
+
+on:
+  push:
+    branches: [main]
+
+jobs:
+  build:
+    name: Deploy the Blog
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger Deployment
+        run: curl -fsSL -X POST ${{ secrets.VERCEL_WEBHOOK_URL }} | jq
