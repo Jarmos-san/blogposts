@@ -1,0 +1,16 @@
+name: QA Checks
+
+on:
+  pull_request:
+    paths: ["blogs/**/*.md"]
+
+jobs:
+  prettier:
+    name: Format Markdown Files
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v6.0.1
+
+      - name: Run Prettier
+        run: npx prettier "./blogs" --check --prose-wrap "always"
