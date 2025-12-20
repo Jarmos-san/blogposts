@@ -91,7 +91,7 @@ Here’s one such
 picked up from the Internet. The file is huge (_~1200 lines of code!_), is
 unwieldy & a total nightmare to maintain.
 
-And here’s a little code snippet I picked up from the **_.vimrc_** file above.
+And here’s a little code snippet I picked up from the ***.vimrc*** file above.
 
 ```vimscript
 " Example .vimrc file with hundreds of lines of code

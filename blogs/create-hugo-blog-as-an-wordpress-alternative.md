@@ -366,9 +366,9 @@ started with your blog as well! If you do so, reach out to me & say “ _Hi!
 Here’s my blog”_ over social media and/or email. And I might give away a
 shoutout for you.
 
-Besides, my blog is [open-sourced](https://github.com/Jarmos-san/blog)! ❤ So,
-if you stumble across a roadblock, check out how I maintain mine. Or, feel free
-to open an [Issue](https://github.com/Jarmos-san/blog/issues/new/choose)/
+Besides, my blog is [open-sourced](https://github.com/Jarmos-san/blog)! ❤ So, if
+you stumble across a roadblock, check out how I maintain mine. Or, feel free to
+open an [Issue](https://github.com/Jarmos-san/blog/issues/new/choose)/
 [Discussion](https://github.com/Jarmos-san/blog/discussions) thread.
 
 That said, I look forward to how you use Hugo to share your amazing content with

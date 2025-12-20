@@ -88,21 +88,21 @@ hierarchy.
 
 But briefly put, the principles states the following:
 
-1.  **_Reading Patterns_** — Certain optimized ways to get the readers’ short
+1.  ***Reading Patterns*** — Certain optimized ways to get the readers’ short
     attention span.
-2.  **_Just The “RIGHT” Font Size_** — Explains how using an optimal font size
+2.  ***Just The “RIGHT” Font Size*** — Explains how using an optimal font size
     is useful to grab the reader’s attention & make them feel obligated to read
     further.
-3.  **_Space & Texture_** — This is a testament that adequate spacing between
+3.  ***Space & Texture*** — This is a testament that adequate spacing between
     lines & other content is key to creating modern-looking sites on the
     Internet today.
-4.  **_Typeface Weight & Pairing_** — Mostly crucial for branding as this is
+4.  ***Typeface Weight & Pairing*** — Mostly crucial for branding as this is
     what brings about specific characteristic looks & visuals of a brand on the
     Internet.
-5.  **_Color & Tint_** — Humans perceive visual characters more prominently than
+5.  ***Color & Tint*** — Humans perceive visual characters more prominently than
     any other beings on the planet. Using the right color & tint in your themes
     is of utmost importance.
-6.  **_Direction_** — Perhaps the most crucial principle of all is the page
+6.  ***Direction*** — Perhaps the most crucial principle of all is the page
     layout of the site. This is how the writer can make the most out of the
     reader’s short attention span. No single site will have obviously the same
     page layout as the other & each of them is usually optimized according to
