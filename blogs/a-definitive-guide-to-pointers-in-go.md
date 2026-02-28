@@ -5,6 +5,7 @@ description:
   This guide covers pointer types, memory addresses, dereferencing and why
   pointers matter for writing efficient and reliable Go programs.
 publishedOn: 2026-02-25 13:34:03
+status: published
 coverImage:
   url: https://ik.imagekit.io/jarmos/a-definitive-guide-to-pointers-in-go.png
   alt: A Definitive Guide to Pointers in Go
